@@ -10,10 +10,9 @@ This project analyses electricity generation in Germany across renewable and con
 
 ## Dashboard Preview
 
-The screenshot supplied for this project can be added at `assets/Germany Electricity Generation Dashboard.png`. Once you add that image to the repository, you can embed it here:
 
 ```markdown
-![Germany Electricity Generation Dashboard](assets/dashboard-preview.png)
+![Germany Electricity Generation Dashboard](asassets/Germany Electricity Generation Dashboard.png)
 ```
 
 ## Dashboard Highlights
