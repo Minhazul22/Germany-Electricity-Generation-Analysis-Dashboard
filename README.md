@@ -12,7 +12,7 @@ This project analyses electricity generation in Germany across renewable and con
 
 
 ```markdown
-![Germany Electricity Generation Dashboard](asassets/Germany Electricity Generation Dashboard.png)
+![Germany Electricity Generation Dashboard](assets/Germany%20Electricity%20Generation%20Dashboard.png)
 ```
 
 ## Dashboard Highlights
