@@ -2,13 +2,19 @@
 
 An interactive Power BI dashboard for exploring Germany's electricity generation patterns, renewable energy trends, and electricity mix using hourly market data from **SMARD (Bundesnetzagentur)**.
 
-![Germany Electricity Generation Dashboard](assets/dashboard-preview.png)
-
 ## Project Overview
 
 This project analyses electricity generation in Germany across renewable and conventional energy sources. It brings time-series data into an interactive Power BI report so users can explore how generation changes over time, compare energy sources, and understand the contribution of renewables to the overall electricity mix.
 
 **Tools and technologies:** Power BI · Power Query · DAX · Microsoft Excel · SMARD Open Data
+
+## Dashboard Preview
+
+The screenshot supplied for this project can be added at `assets/dashboard-preview.png`. Once you add that image to the repository, you can embed it here:
+
+```markdown
+![Germany Electricity Generation Dashboard](assets/dashboard-preview.png)
+```
 
 ## Dashboard Highlights
 
@@ -26,7 +32,7 @@ The dashboard is based on electricity-market data from **SMARD**, the German Fed
 - Website: https://www.smard.de/
 - Data portal: https://www.smard.de/home/downloadcenter/download-market-data/
 
-The report image shows a selected period from **17 October 2024 to 27 October 2026**, with hourly resolution. Exact coverage and available categories depend on the data included in the project files.
+The dashboard screenshot shows a selected period from **17 October 2024 to 27 October 2026**, with hourly resolution. Exact coverage and available categories depend on the data included in the project files.
 
 ## Data Preparation and Modelling
 
