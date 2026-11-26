@@ -10,10 +10,7 @@ This project analyses electricity generation in Germany across renewable and con
 
 ## Dashboard Preview
 
-
-```markdown
 ![Germany Electricity Generation Dashboard](assets/Germany%20Electricity%20Generation%20Dashboard.png)
-```
 
 ## Dashboard Highlights
 
@@ -54,19 +51,16 @@ Germany-Electricity-Generation-Analysis-Dashboard/
 ├── README.md
 │
 ├── assets/
-│   └── dashboard-preview.png
+│   └── Germany Electricity Generation Dashboard.png
 │
 ├── data/
 │   ├── raw/
-│   │   └── README.md
 │   └── processed/
-│       └── README.md
 │
 ├── powerbi/
 │   └── Germany-Electricity-Generation-Dashboard.pbix
 │
 ├── excel/
-│   └── README.md
 │
 └── docs/
     ├── data-dictionary.md
